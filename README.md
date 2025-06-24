@@ -23,6 +23,6 @@ Git
 GitHub
 
 Autor:
-Ronald Elian Hurtado Jama (Elian)
+Ronald Elian Hurtado Jama 
 
 Estado: ✔️ Completo y funcional.
